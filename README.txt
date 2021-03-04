@@ -1,24 +1,19 @@
-Developed by Bento Alves Lima
-
-Running instructions:
-
-Documentaçao detalhada função-a-função em formato doctring no cogigo fonte
-O jogo é dependente da pasta 'imagens'.
-Manter a pasta na raiz da pasta 'Game'
-Executar o comando 'python3 UI.py'
+Developed by TerminalBen
+Forked from https://github.com/perezjbryanSchoolWork
+Made some adaptations to fit the CapeVerdian stile of Mancala/Uril
+Detailed documentation in the code as docstrings
+The game is dependant on the Images Folder
 
 
-Comdandos de jogo: 
-1,2,3,4,5,6 para mover as casas 1..6 de cada jogador.
+Game Controls:
+Run <python3 UI.py>
+'1','2','3','4','5','6' for each player, to move the stones from the respective houses
 
-System Requirements:(Não foi testada em nenhuma outra maquina)
-Operating System: MacOS Big Sur Version 11.1
-Processor: 1.4 Ghz Dual-Core Intel Core I5
-Memory: 8GB 1600 MHz DDR3
-Python Version: 3.8.2 64-bit
-code Editor: Visual Studio Code
+Bugs:
+There is a bug when stealing the stones to add to score
+To Fix later(or not)
 
-Python packages(Environment):
+Python3 packages(Environment):
 appdirs==1.4.4
 autopep8==1.5.4
 black==20.8b1

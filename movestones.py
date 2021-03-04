@@ -1,3 +1,9 @@
+    """This does not do anything. Can Ignore
+
+    
+    """
+
+
 boardgame = [4, 2, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4]
 last_position_stone = 0
 aux_board = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  # unused class variable
